@@ -18,8 +18,8 @@ const OrphanagesMap = () => {
                     <p>Muitas crianças estão esperando a sua visita :)</p>
                 </header>
                 <footer>
-                    <strong>Joinville</strong>
-                    <span>Santa Catarina</span>
+                    <strong>Vitória</strong>
+                    <span>Espírito Santo</span>
                 </footer>
             </aside>
             <Map 
